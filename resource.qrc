@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>template.png</file>
+        <file>acpayeeonly.jpg</file>
+        <file>money.ico</file>
+    </qresource>
+</RCC>
